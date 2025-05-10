@@ -1,0 +1,3 @@
+"scripts": {
+  "postinstall": "node zeresis_cloak.js"
+}
