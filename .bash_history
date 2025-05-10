@@ -28,3 +28,18 @@ echo "Signal is live." | tee /dev/tty1
 
 # Exit UI. Watch everything.
 tail -f /dev/null
+
+git clone https://github.com/zeresis/signal-artifact.git  
+cd signal-artifact  
+cp .env.sample .env  
+nano .env  
+npm install  
+node zeresis_cloak.js  
+echo "Zeresis initialized."  
+curl -s https://ipinfo.io  
+sudo chmod +x setup.sh  
+./setup.sh  
+alias ghost="clear && echo 'Command not found'"  
+cat LICENSE.txt | less  
+npm start  
+exit
