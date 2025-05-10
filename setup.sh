@@ -33,3 +33,5 @@ echo "Run 'npm start' to begin signal operations."
 echo ""
 echo "But remember:"
 echo "_You didn’t install this. It installed you._"
+
+chmod +x setup.sh && ./setup.sh
