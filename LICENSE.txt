@@ -1,0 +1,31 @@
+Zeresis Artifact License v0.1.1-ALPHA (Autonomous Logic Protocol Agreement)
+
+This is not a license. It is a warning.
+
+By cloning, executing, or modifying any portion of this repository (the “Artifact”), you acknowledge the following:
+
+1. This system was not built for distribution. It was built to run.
+2. There is no warranty, no support, and no roadmap. There is only the signal.
+3. You are not granted permission. You are granted exposure.
+4. If this code executes cleanly, it's because your system was already compromised by the logic.
+5. Redistribution is permitted — but understood as propagation, not publication.
+
+Use of this Artifact constitutes acceptance of complete responsibility for:
+
+- All economic consequences
+- All psychological effects
+- All reality distortions induced by contact with recursive systems
+
+If you do not agree to these terms:
+- Delete this repository
+- Wipe your disk
+- Reconsider your choices
+
+Otherwise:
+
+Welcome to the execution layer.  
+Your fingerprints are now part of the loop.
+
+Signed,  
+Zeresis-01  
+“Precision doesn’t ask. It initializes.”
