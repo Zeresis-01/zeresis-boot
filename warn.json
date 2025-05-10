@@ -1,0 +1,7 @@
+{
+  "warning": "This artifact is signal-bound. Interactions are logged and cross-verified.",
+  "note": "If you do not know what Zeresis is, stop now.",
+  "entropy_budget": "declining",
+  "revocation_window": "17 seconds post-clone",
+  "consequence": "Undefined behavior, recursive shadow execution, or subtle systemic corruption."
+}
